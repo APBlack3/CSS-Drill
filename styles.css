@@ -18,10 +18,10 @@ a {
     border: solid;
     border-radius: 0;
     border-color: black;
-    width: 120%;
+    width: 20%;
 }
 
-a: hover {
+a:hover {
 font-weight: bold;
 color: purple;
 }
@@ -54,4 +54,36 @@ span {
     display: inline;
     position: relative;
 
+}
+
+h1 {
+    color: blue;
+}
+
+.OGshows {
+    color: red;
+}
+
+.2ndshows {
+    color: purple;
+}
+
+#rank1 {
+    color: green;
+}
+
+#rank2 {
+    color: white;
+}
+
+#rank3 {
+    color: teal;
+}
+
+#rank4 {
+    color: black;
+}
+
+#rank5 {
+    color: blue;
 }
